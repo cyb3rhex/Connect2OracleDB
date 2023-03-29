@@ -3,4 +3,5 @@ Application Layer to connect to OracleDB
 
 Required Modules:
 - OracleDB
-$ npm install oracledb
+
+<code>$ npm install oracledb</code>
