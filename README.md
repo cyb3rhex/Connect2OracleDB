@@ -1,5 +1,5 @@
 # Connect2OracleDB
-Application Layer to connect to OracleDB
+Application Layer | Connect to OracleDB
 
 Required Modules:
 - OracleDB
